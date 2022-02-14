@@ -1,0 +1,60 @@
+.title {
+    background-color: black;
+    text-align: left;
+    font-size: 40pt;
+    color: #005F73;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    font-family: garamond;
+}
+
+.name {
+    font-size: 35pt;
+    text-align: center;
+    color: #20639B;
+    background-color: black;
+    font-family: cursive;
+}
+
+.st {
+    font-size: 25pt;
+    text-align: center;
+    color: #3CAEA3;
+}
+
+.item {
+    text-align: center;
+    font-size: 18pt;
+}
+
+.info {
+    text-align: center;
+}
+
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+
+.fitem{
+    text-align: center;
+    color: #3CAEA3;
+    font-size: 18pt;
+    background-color: black;
+    margin: 0%;
+}
+.final {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-bottom: 0%;
+}
+
+.btext {
+    font-size: 45pt;
+    color: #3CAEA3;
+    margin: 10% auto;
+    font-family: garamond;
+    text-align: center;
+}
